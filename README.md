@@ -18,9 +18,7 @@ A developer, designer, writing enthusiast, internet marketer, would be book obse
 You can view these and more [here](https://vartzy.github.io/#).
 
 ## Leadership & Advocacy 🌟
-- **Vets Who Code:** As the Executive Director, I have transformed traditional educational models by integrating advanced technology and data analytics to better serve veteran students.
 - **Community Engagement:** Built a robust community of tech professionals and veterans, facilitating mentorship, networking, and career opportunities. 🤝
-- **Public Speaking:** Regular speaker at tech conferences, advocating for veterans’ transition into tech and sharing insights on tech education innovations. 🎤
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
@@ -30,9 +28,8 @@ You can view these and more [here](https://vartzy.github.io/#).
 
 Here are a few my other categorized blog (mostly in Bahasa Indonesia):
 
-[Personal blog (life, essay, reflection)](https://medium.com/@farrelnikoson)
-[Internet marketing and bussiness blog](https://vartz.vercel.app/blog)
-
+- [Personal blog (life, essay, reflection)](https://medium.com/@farrelnikoson)
+- [Internet marketing and bussiness blog](https://vartz.vercel.app/blog)
 
 ## Connect with Me 📬
 
