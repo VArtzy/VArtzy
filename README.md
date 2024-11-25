@@ -5,13 +5,15 @@ Greeting! I'm Farrel. Here, I share insights into my software development journe
 ## 💻 About Me
 A developer, designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
 
-## Technical Skills 🛠️
-- **Languages:** JavaScript, Python, TypeScript
-- **Frameworks & Libraries:** React, Next.js, Node.js, FastAPI
-- **Tools & Platforms:** GitHub, Docker, Azure, Vercel
+## Proficient Technical Skills 🛠️
+- **Languages:** TypeScript, Java/Script, Python, C/C++, Go, Rust
+- **Paradigm:** Procedural, OOP, Functional, Distributed Systems
+- **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
+- **Tools & Platforms:** GitHub, Docker, K8S, Azure, DigitalOcean, Vercel
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
 ## Current Projects 📚
+- **[Datadok](https://github.com/VArtzy/Datadok):** Team project business intelligence and analytics software for hackathon.
 - **[Neocurl](https://github.com/vartzy/neocurl):** Simple, effective and fast HTTP Client based on curl for neovim (<5kb).
 - **[NodeJS-OWASP-API-Security](https://github.com/vartzy/NodeJS-OWASP-API-Security):** NodeJS API with addressing top 10 OWASP security risk on API development.
 - **[Codepen Archived](https://codepen.io/vartzy)** All of my archive front-end pen and project.
@@ -27,7 +29,7 @@ You can view these and more [here](https://vartzy.github.io/#).
 
 ## Outside Engineering 👨
 
-Here are a few my other categorized blog (mostly in Bahasa Indonesia):
+Here are a few my other categorized blog (mostly in Bahasa Indonesia)
 
 - [Personal blog (life, essay, reflection)](https://medium.com/@farrelnikoson)
 - [Internet marketing and bussiness blog](https://vartz.vercel.app/blog)
