@@ -10,7 +10,7 @@ A developer, designer, writing enthusiast, internet marketer, would be book obse
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
 - **Tools & Platforms:** GitHub, Docker, K8S, Azure, DigitalOcean, Vercel, [Figma](https://www.figma.com/@farrelnikoson)
-- **Data Science & AI:** Machine learning concepts, data analysis and understanding. Develop model, deploy and craft apps upon
+- **Data Science & AI:** Machine learning concepts, data analysis and understanding. Develop model, deploy and craft apps upon it
 
 ## Current Projects 📚
 - **[Datadok](https://github.com/VArtzy/Datadok):** Team project business intelligence and analytics software for hackathon.
@@ -18,7 +18,7 @@ A developer, designer, writing enthusiast, internet marketer, would be book obse
 - **[NodeJS-OWASP-API-Security](https://github.com/vartzy/NodeJS-OWASP-API-Security):** NodeJS API with addressing top 10 OWASP security risk on API development.
 - **[Codepen Archived](https://codepen.io/vartzy)** All of my archive front-end pen and project.
 
-You can view these and more [here](https://vartzy.github.io/#).
+You can view these and more [here](https://vartzy.github.io?tab=repositories).
 
 ## Leadership & Advocacy 🌟
 - **Community Engagement:** Built a robust community of tech professionals and veterans, facilitating mentorship, networking, and career opportunities. 🤝
