@@ -10,7 +10,7 @@ A developer, designer, writing enthusiast, internet marketer, would be book obse
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
 - **Tools & Platforms:** GitHub, Docker, K8S, Azure, DigitalOcean, Vercel, [Figma](https://www.figma.com/@farrelnikoson)
-- **Data Science & AI:** Proficient in machine learning concepts, data analysis & understanding. Develop model, deploy and craft apps upon
+- **Data Science & AI:** Machine learning concepts, data analysis & understanding. Develop model, deploy and craft apps upon
 
 ## Current Projects 📚
 - **[Datadok](https://github.com/VArtzy/Datadok):** Team project business intelligence and analytics software for hackathon.
