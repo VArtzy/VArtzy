@@ -2,15 +2,15 @@
 
 Greeting! I'm Farrel. Here, I share insights into my software development journey, focusing on the fascinating worlds of frontend, backend, and fullstack development and anything about IT/programming.
 
-## 💻 About Me
+## About Me 💻
 A developer, designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
 
 ## Proficient Technical Skills 🛠️
-- **Languages:** TypeScript, Java/Script, Python, C/#/++, Go, Rust
+- **Languages:** TypeScript, Java/Script, C/#/++, Python, Go, Rust
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
 - **Tools & Platforms:** GitHub, Docker, K8S, Azure, DigitalOcean, Vercel, [Figma](https://www.figma.com/@farrelnikoson)
-- **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
+- **Data Science & AI:** Proficient in machine learning concepts, data analysis & understanding. Develop model, deploy and craft apps upon
 
 ## Current Projects 📚
 - **[Datadok](https://github.com/VArtzy/Datadok):** Team project business intelligence and analytics software for hackathon.
