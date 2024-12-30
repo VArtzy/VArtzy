@@ -18,7 +18,7 @@ A developer, designer, writing enthusiast, internet marketer, would be book obse
 - **[NodeJS-OWASP-API-Security](https://github.com/vartzy/NodeJS-OWASP-API-Security):** NodeJS API with addressing top 10 OWASP security risk on API development.
 - **[Codepen Archived](https://codepen.io/vartzy)** All of my archive front-end pen and project.
 
-You can view these and more [here](https://vartzy.github.io?tab=repositories).
+You can view these and more [here](https://github.com/VArtzy?tab=repositories).
 
 ## Leadership & Advocacy 🌟
 - **Community Engagement:** Built a robust community of tech professionals and veterans, facilitating mentorship, networking, and career opportunities. 🤝
