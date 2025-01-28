@@ -9,7 +9,7 @@ A developer, designer, writing enthusiast, internet marketer, would be book obse
 - **Languages:** TypeScript, Java/Script, C/#/++, Python, Go, Rust
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
-- **Tools & Platforms:** Git/Hub, Docker, K8S, Azure, DigitalOcean, Vercel, [Figma](https://www.figma.com/@farrelnikoson)
+- **Tools & Platforms:** Git/Hub, Docker, K8S, Azure, DigitalOcean, Vercel, Plant/UML, [Figma](https://www.figma.com/@farrelnikoson)
 - **Data Science & AI:** Machine learning concepts, data analysis and understanding. Develop model, deploy and craft apps upon
 
 ## Current Projects 📚
