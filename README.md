@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm VArtzy (Farrel Nikoson)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
  
-Greeting! I'm Farrel. Here, I share insights into my software development journey, focusing on the fascinating worlds of frontend, backend, and fullstack development and anything about IT/programming. 
+Greeting! I'm Farrel. Here, I share insights into my software development journey, focusing on the fascinating worlds of frontend, backend, and fullstack development and anything about IT/programming.
 
 ## About Me 💻
 A developer, designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
