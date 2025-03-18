@@ -31,6 +31,7 @@ You can view these and [more here](https://github.com/VArtzy?tab=repositories).
 
 Here are a few my other categorized blog (mostly in Bahasa Indonesia)
 
+- [Engineering with Farrel Nikoson](https://farrelnikoson.tech/blog)
 - [Personal blog (life, essay, reflection)](https://medium.com/@farrelnikoson)
 - [Internet marketing and bussiness blog](https://vartz.vercel.app/blog)
 
