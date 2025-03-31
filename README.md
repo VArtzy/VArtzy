@@ -3,7 +3,7 @@
 Greeting! I'm Farrel. Here, I share insights into my software development journey, focusing on the fascinating worlds of frontend, backend, and fullstack development and anything about IT/programming.
 
 ## About Me 💻
-A developer, designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
+A developer (read: enjəˈnir), designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
 
 ## Proficient Technical Skills 🛠️
 - **Languages:** TypeScript, Java/Script, C/#/++, Python, Go, Rust
