@@ -1,4 +1,3 @@
-![backup](https://github.com/user-attachments/assets/40214201-be2c-4f87-9e2d-7aa2c70e0100)
 <h1 align="center">Hi, I'm VArtzy (Farrel Nikoson)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
  
 Greeting! I'm Farrel. Here, I share insights into my software development journey, focusing on the fascinating worlds of frontend, backend, and fullstack development and anything about IT/programming.
