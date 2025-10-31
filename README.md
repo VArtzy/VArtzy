@@ -10,7 +10,7 @@ A developer (read: enjəˈnir), designer, writing enthusiast, internet marketer,
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
 - **Database Systems**: MySQL, MongoDB, PostgreSQL
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
-- **Tools & Platforms:** Git/Hub, Linux, Docker, K8S, Azure, DigitalOcean, Vercel, Plant/UML, [Figma](https://www.figma.com/@farrelnikoson), Codex
+- **Tools & Platforms:** Git/Hub, Linux/Unix, Docker, K8S, Azure, DigitalOcean, Vercel, Plant/UML, [Figma](https://www.figma.com/@farrelnikoson), Codex
 - **Data Science & AI:** Machine learning concepts, data analysis and understanding. Develop model, deploy and craft apps upon
 
 ## Current Projects 📚
