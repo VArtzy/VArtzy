@@ -6,8 +6,9 @@ Greeting! I'm Farrel. Here, I share insights into my software development journe
 A developer (read: enjəˈnir), designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
 
 ## Proficient Technical Skills 🛠️
-- **Languages:** TypeScript, Java/Script, C/#/++, Python, Go, Rust
+- **Languages:** TypeScript, Java/Script, C/#/++, Python, Go, Rust, SQL
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
+- **Database Systems**: MySQL, MongoDB, PostgreSQL
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
 - **Tools & Platforms:** Git/Hub, Linux, Docker, K8S, Azure, DigitalOcean, Vercel, Plant/UML, [Figma](https://www.figma.com/@farrelnikoson), Codex
 - **Data Science & AI:** Machine learning concepts, data analysis and understanding. Develop model, deploy and craft apps upon
