@@ -6,7 +6,7 @@ Greeting! I'm Farrel. Here, I share insights into my software development journe
 A developer (read: enjəˈnir), designer, writing enthusiast, internet marketer, would be book obsessive, blogger. Outside of computer I Love to play with my dogs, culinary things and playing games. I'm a type of whatever-do-as-it-has-benefit.
 
 ## Proficient Technical Skills 🛠️
-- **Languages:** TypeScript, Java/Script, C/#/++, Python, Go, Rust
+- **Languages:** TypeScript, Java/Script, PHP, C/#/++, Python, Go, Rust
 - **Paradigm:** Procedural, OOP, Functional, Distributed Systems
 - **Database Systems**: MySQL, MongoDB, PostgreSQL
 - **Frameworks & Libraries:** React, Next.js, Laravel, Node.js, FastAPI
