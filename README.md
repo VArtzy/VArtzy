@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm VArtzy (Farrel Nikoson)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/65b0003c-b547-468e-aa7e-b262b3a63e1c" />
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm VArtzy (Farrel Nikoson)</h1>
  
 Greeting! I'm Farrel. Here, I share insights into my software development journey, focusing on the fascinating worlds of frontend, backend, and fullstack development and anything about IT/programming.
 
