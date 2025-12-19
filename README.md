@@ -17,7 +17,7 @@ A developer (read: enjəˈnir), designer, writing enthusiast, internet marketer,
 ## Current Projects 📚
 - **[Datadok](https://github.com/VArtzy/Datadok):** Team project business intelligence and analytics software for hackathon.
 - **[Neocurl](https://github.com/vartzy/neocurl):** Simple, effective and fast HTTP Client based on curl for neovim (<5kb).
-- **[NodeJS-OWASP-API-Security](https://github.com/vartzy/NodeJS-OWASP-API-Security):** NodeJS API with addressing top 10 OWASP security risk on API development.
+- **[NodeJS-OWASP-API-Security](https://github.com/vartzy/NodeJS-OWASP-API-Security):** NodeJS API with addressing top 10 OWASP security risk on API development. 
 - **[Codepen Archived](https://codepen.io/vartzy)** All of my archive front-end pen and project.
 
 You can view these and [more here](https://github.com/VArtzy?tab=repositories).
