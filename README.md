@@ -39,7 +39,7 @@ Here are a few my other categorized blog (mostly in Bahasa Indonesia)
 
 ## Connect with Me 📬
 
-Want to connect or collaborate? I'm always open to new opportunities and discussions. Find me on social media through the links below – let's chat! 
+Want to connect or collaborate? I'm always open to new opportunities and discussions. Find me on social media through the links below. Let's chat! 
 
 - 🔗 [LinkedIn](https://linkedin.com/in/farrelnikoson)
 - 📫 [Email](mailto:farrelnikoson@gmail.com)
