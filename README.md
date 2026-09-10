@@ -43,4 +43,4 @@ Want to connect or collaborate? I'm always open to new opportunities and discuss
 
 - 🔗 [LinkedIn](https://linkedin.com/in/farrelnikoson)
 - 📫 [Email](mailto:farrelnikoson@gmail.com)
-- 🐦 [Twitter](https://twitter.com/farrelnikoson)
+- 🐦 [Twitter](https://twitter.com/farrelnikoson) 
